@@ -22,7 +22,7 @@ Above is a freehand sketch of the project layout.
 ## Sample Result in VSCode
 
 <div style="margin: 0 auto; width: 54vw; aspect-ratio: 2/1; display: grid; place-items: center;">
-    <img src='./images/ide.png' width='100%' alt='image'>
+    <img src='./images/ide.PNG' width='100%' alt='image'>
 </div>
 
 This image showcases a sample result from querying the database in the VSCode text editor interface.
