@@ -1,0 +1,23 @@
+-- create a database
+-- CREATE DATABASE GroceryStoreDatabase;
+
+-- create a table
+-- CREATE TABLE suppliers_table (
+--   id INTEGER PRIMARY KEY AUTOINCREMENT,
+--   category TEXT NOT NULL,
+--   name TEXT NOT NULL,
+--   item TEXT NOT NULL,
+--   quantity INTEGER NOT NULL,
+--   unit TEXT NOT NULL
+-- );
+
+-- insert some values
+-- INSERT INTO suppliers_table VALUES (1, 'Animal Farm', 'Poultry', 'Egg', 300, 'qty');
+-- INSERT INTO suppliers_table VALUES (2, 'Animal Farm', 'Pasture', 'Beef', 1000, 'lbs');
+-- INSERT INTO suppliers_table VALUES (3, 'Organic Food Farm', 'Paddy', 'Rice', 500, 'kg');
+-- INSERT INTO suppliers_table VALUES (4, 'Organic Food Farm', 'Horticulture', 'Carrot', 100, 'kg');
+-- INSERT INTO suppliers_table VALUES (5, 'Food Processing Indusrty', 'Gino Foods', 'Stew Paste', 700, 'g');
+-- INSERT INTO suppliers_table VALUES (6, 'Food Processing Indusrty', 'Kings Oil', 'Vegetable Oil', 200, 'L');
+
+-- fetch values
+SELECT * FROM suppliers_table;
